@@ -1,9 +1,9 @@
 # Safe-Place-App
-THE PEARL SAFE HAVEN “SAFE PLACE” APP REQUIREMENTS
-Purpose of the app:
+THE PEARL SAFE HAVEN “SAFE PLACE” Application Requirements Document
+Purpose of the Mobile Application
 The Pearl Safe Haven is determined to change the narrative on gender based violence in Ghana using a multi-prong approach; an approach which comprises building a Safe Haven Mobile Application and Hotline. The app will provide victims or individuals with all information they need to get in touch with the Safe Haven, Stay safe guides, information alerts about activities and events by the Safe Haven, Direct support from the Safe Haven team etc.
 
-Pearl Overview:
+The Pearl Safe Haven Overview:
 In close collaboration with the Australian High Commission of Ghana (our Patron), we launched The Pearl Safe Haven (a Ghana registered non-profit) on Nov 28, 2018.  Our vision is to promote the basic constitutional human rights of women and children and to protect and heal those who have suffered gender-based violence, nationwide.
 
 The Safe Haven will provide a 24-hour hotline for survivors or persons in the general population to call in for assistance in any area related to domestic violence, abuse, and rape. This hotline will be available before the Safe Haven is fully constructed and would function alongside our “Safe Place” mobile application.
